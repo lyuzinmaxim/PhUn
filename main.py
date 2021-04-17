@@ -231,4 +231,4 @@ trained_model1,list_metric1,list_loss1 = model_train(
                                             loss_freq=1,
                                             metric_freq=1,
                                             lr_freq=2,
-                                            save_freq=10)
+                                            save_freq=100)
