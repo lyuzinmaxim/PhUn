@@ -27,6 +27,15 @@ Model can be shown as following (from original article [1]):
 ![PhUn](https://user-images.githubusercontent.com/73649419/116903791-88a27080-ac45-11eb-92a6-c6e5d378bc3d.jpg)
 
 
+# Training info
+In original paper authors describe train hyperparameters as follows:
+
+loss: pixelwise MSE
+
+optimizer: Adam 
+
+learning rate: 1e-4 "at start and than decreasing"
+
 # References
 1. Gili Dardikman-Yoffe, Darina Roitshtain, Simcha K. Mirsky, Nir A. Turko, Mor Habaza, and Natan T. Shaked, "PhUn-Net: ready-to-use neural network for unwrapping quantitative phase images of biological cells," Biomed. Opt. Express 11, 1107-1121 (2020).
 2. K. Wang, Y. Li, K. Qian, J. Di, and J. Zhao, “One-step robust deep
