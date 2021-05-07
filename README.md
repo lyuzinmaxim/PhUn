@@ -22,7 +22,7 @@ So, dataset data was generated using two methods (in equal proportions):
 ![example2](https://user-images.githubusercontent.com/73649419/115595433-97049a00-a2df-11eb-95d0-73c631d73240.png)
 
 # Model
-Model can be shown as following (from original article [1]):
+Model can be shown as following (from original article [1]): 
 
 ![PhUn](https://user-images.githubusercontent.com/73649419/116903791-88a27080-ac45-11eb-92a6-c6e5d378bc3d.jpg)
 
