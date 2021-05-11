@@ -36,6 +36,8 @@ optimizer: Adam
 
 learning rate: 1e-4 "at start and than decreasing"
 
+Succeed train to zero cost (0.025) with Adam 0.0001
+
 # References
 1. Gili Dardikman-Yoffe, Darina Roitshtain, Simcha K. Mirsky, Nir A. Turko, Mor Habaza, and Natan T. Shaked, "PhUn-Net: ready-to-use neural network for unwrapping quantitative phase images of biological cells," Biomed. Opt. Express 11, 1107-1121 (2020).
 2. K. Wang, Y. Li, K. Qian, J. Di, and J. Zhao, “One-step robust deep
