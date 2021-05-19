@@ -32,6 +32,7 @@ In original paper authors describe train hyperparameters as follows:
 
 loss: pixelwise MSE
 
+
 optimizer: Adam 
 
 learning rate: 1e-4 "at start and than decreasing"
