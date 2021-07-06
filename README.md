@@ -5,6 +5,10 @@ PyTorch model PhUn for phase unwrapping
 
 Original network was designed in TensorFlow framework, and this is the PyTorch version of it.
 
+# Usage
+
+`<pip install -r example-requirements.txt>`
+
 # Changes
 I've added following moments to the structure:
 
